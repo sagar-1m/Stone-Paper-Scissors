@@ -3,6 +3,8 @@
 Welcome to the Stone Paper Scissors game! This is a simple static web application where a user can play the classic game of Stone Paper Scissors against the computer. 
 The application is hosted on Vercel.
 
+![Stone paper scissors image](https://github.com/sagar-1m/Stone-Paper-Scissors/assets/113180099/7e6dedeb-204e-4532-9aba-4eca5051974e)
+
 ## Table of Contents
 
 - [Description](#description)
