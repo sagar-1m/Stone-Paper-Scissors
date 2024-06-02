@@ -8,11 +8,11 @@ The application is hosted on Vercel.
 ## Table of Contents
 
 - [Description](#description)
+- [Hosting](#hosting)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Hosting](#hosting)
+- [Installation](#installation)
 
 ## Description
 
@@ -21,6 +21,9 @@ Stone Paper Scissors is a web-based game application where the user can choose b
 - Stone crushes Scissors
 - Scissors cuts Paper
 - Paper covers Stone
+
+## Hosting
+   This project is hosted on Vercel. You can play the game [here](https://stone-paper-scissors-bice.vercel.app/)
 
 ## Features
 
@@ -35,6 +38,11 @@ Stone Paper Scissors is a web-based game application where the user can choose b
 2. Choose your move: Stone, Paper, or Scissors.
 3. The computer will randomly select its move.
 4. The result (win, lose, or draw) will be displayed along with the updated score.
+
+## Technologies Used
+    HTML
+    CSS
+    JavaScript
 
 ## Installation
 
@@ -58,10 +66,4 @@ To run the project locally:
    open index.html
 
 
-## Technologies Used
-    HTML
-    CSS
-    JavaScript
 
-## Hosting
-   This project is hosted on Vercel. You can play the game [here](https://stone-paper-scissors-bice.vercel.app/)
