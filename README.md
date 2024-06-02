@@ -13,8 +13,6 @@ The application is hosted on Vercel.
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Hosting](#hosting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
